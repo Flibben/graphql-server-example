@@ -1,0 +1,25 @@
+{
+  "name": "graphql-server-example",
+  "version": "1.0.0",
+  "description": "Tutorial on graphql, testing the technology out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flibben/graphql-server-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flibben/graphql-server-example/issues"
+  },
+  "homepage": "https://github.com/Flibben/graphql-server-example#readme",
+  "dependencies": {
+    "apollo-server": "^3.4.0",
+    "graphql": "^15.6.1"
+  },
+  "devDependencies": {}
+}
